@@ -12,8 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String hello = "HELLO BEE!";
-        String helloThere = "HELLO THERE!";
-        //Connect firebase to the project
 
     }
 }
