@@ -12,7 +12,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ca9e6c5-ff7b-4acc-92d5-a5582d63b7f1" name="Default Changelist" comment="add login" />
+    <list default="true" id="7ca9e6c5-ff7b-4acc-92d5-a5582d63b7f1" name="Default Changelist" comment="add all projects files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="18c6f223-e18e-4fe3-b97f-2eea7dca22f3" name="add login" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -168,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647193519424</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add all projects files">
+      <created>1647198041532</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1647198041532</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +215,7 @@
     <MESSAGE value="Connect firebaase" />
     <MESSAGE value="add login" />
     <MESSAGE value="Revert &quot;Connect firebaase&quot;&#10;&#10;This reverts commit 681d4074" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Connect firebaase&quot;&#10;&#10;This reverts commit 681d4074" />
+    <MESSAGE value="add all projects files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add all projects files" />
   </component>
 </project>
